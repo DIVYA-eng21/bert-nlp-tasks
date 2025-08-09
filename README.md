@@ -20,7 +20,7 @@ Covers:
 - Fine-tuning a BERT model
 - Model evaluation and performance metrics
 
-### 2. `bert3.ipynb`
+### 2. `bertt.pdf`
 A multi-task demonstration using Hugging Face Transformers pipelines:
 - **Sentiment Analysis** – Detecting positive/negative sentiment in text.
 - **Zero-Shot Classification** – Assigning custom labels to text without retraining.
@@ -38,7 +38,7 @@ cd nlp-transformers-demo
 pip install datasets evaluate "transformers[sentencepiece]"
 
 
-🧠 Learning Note
+## 🧠 Learning Note
 This repository reflects my practical learning process in NLP , Bert and Generative AI.
 The work is self-implemented but a few concepts were learned from the Intellipaat – Generative AI course.
 The goal was not just to run code, but to understand each step, modify it, and extend it for my own datasets and experiments.
@@ -58,4 +58,5 @@ PyTorch
 Hugging Face Transformers
 Datasets & Evaluate libraries
 Jupyter Notebook
+
 
